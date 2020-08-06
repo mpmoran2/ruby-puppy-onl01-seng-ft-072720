@@ -18,9 +18,9 @@ class Dog
     @@all.clear
   end 
   
-  def save
+  def self.print_all
+  enddef save
   end 
   
-  def self.print_all
-  end
+  
 end 
